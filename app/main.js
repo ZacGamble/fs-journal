@@ -20,6 +20,4 @@ function init() {
   })
 }
 
-
-
 init()
